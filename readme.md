@@ -1,6 +1,6 @@
 # 📧 Cold Mail Generator  
 
-![App Screenshot](AppHomePage.png)  
+![App Screenshot](screenshots/AppHomePage.png)  
 
 ## **🔹 Overview**  
 Cold Mail Generator is a **Streamlit web application** that helps users generate **cold emails** by extracting job details from a given **job posting URL**. The app uses **AI-powered job description parsing** and automatically **adds relevant portfolio links** from a CSV file (`my_portfolio.csv`) to create personalized cold emails.  
@@ -102,15 +102,16 @@ The app will open in your browser at `http://localhost:8501`. 🎉
 │── 📄 portfolio.py            # Portfolio link management  
 │── 📄 utils.py                # Text cleaning functions  
 │── 📄 my_portfolio.csv        # Portfolio data (skills & links)  
-│── 📄 AppHomePage.png         # Screenshot of the app UI  
-│── 📄 llm_response.png        # Example AI-generated email  
+│── 📂 screenshots             # Folder containing UI and output screenshots  
+│── 📄 screenshots/AppHomePage.png         # Screenshot of the app UI  
+│── 📄 screenshots/llm_response.png        # Example AI-generated email  
 ```  
 
 ---  
 
 ## 🔥 **Example Output**  
 
-![AI Generated Email](llm_response.png)  
+![AI Generated Email](screenshots/llm_response.png)  
 
 ---  
 
