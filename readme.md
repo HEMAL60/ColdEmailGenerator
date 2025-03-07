@@ -15,6 +15,7 @@ Cold Mail Generator is a **Streamlit web application** that helps users generate
 ✅ **Streamlit UI** - Simple and interactive web interface.  
 ✅ **Virtual Environment Support** - Easily set up using `venv`.  
 ✅ **Powered by Groq Playground** - Supports **cutting-edge LLMs like DeepSeek** for enhanced email generation.  
+✅ **Uses Llama-3.3-70b-Versatile Model** - The project utilizes `Llama-3.3-70b-Versatile` for advanced AI-generated email writing.  
 
 ---  
 
@@ -26,6 +27,7 @@ Cold Mail Generator is a **Streamlit web application** that helps users generate
 | **Streamlit**     | UI framework for web application |  
 | **LangChain**     | AI-powered text processing |  
 | **ChatGroq**      | Language model for email generation |  
+| **Llama-3.3-70b-Versatile** | AI model used for generating personalized cold emails |  
 | **DeepSeek LLM**  | Future support for latest AI models via Groq Playground |  
 | **BeautifulSoup4** | Web scraping (if needed for advanced functionality) |  
 | **ChromaDB**      | Vector database for storing portfolio links |  
