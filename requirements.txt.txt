@@ -1,0 +1,5 @@
+numpy
+langchain
+langchain-groq
+langchain-community
+chromadb
